@@ -19,8 +19,7 @@ where tourist can find good restaurant for burger.
 My main target here is to asses which city would have the highest Pizza store density. I used the Four Square API through 
 the venues.channel. I used the near query to get venues in the cities. Also, I use the CategoryID to set it to show only burger Places.
 An example of my requests.
-https://api.foursquare.com/v2/venues/explore?&client_id=&client_secret=&v=20180605&New York, NY&limit=100&categoryId=4bf58dd8d48988d1ca941735
-
+https://api.foursquare.com/v2/venues/explore?&client_id=&client_secret=&v=20180605&New%20York,%20NY&limit=100&categoryId=4bf58dd8d48988d1ca941735
 
 ##Discussion
 
