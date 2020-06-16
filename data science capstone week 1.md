@@ -13,6 +13,10 @@ for good burger.
 I will use the FourSquare API to collect data about locations of burger stores in 5 major US cities which are:
 New York,NY, San Francisco, CA,Jersey City, NJ, Boston, MA and Chicago,IL.These are one of the most populated US cities and I am
 where tourist can find good restaurant for burger.
+1) Geographical coordinate of cities
+2)Favourite restaurants
+3)Shopping complex and facilities for families.
+
 
 ##Methodology
 
