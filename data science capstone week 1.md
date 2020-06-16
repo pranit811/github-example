@@ -1,5 +1,5 @@
 ###The battle of neighbourhoods
-Find Location to Build New Cinema in Hong Kong
+
 ##Where to visit if you want to eat burger
 
 ##INTRODUCTION
